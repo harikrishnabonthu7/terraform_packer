@@ -21,7 +21,7 @@
       "sudo yum update -y",
       "sudo amazon-linux-extras install nginx1",
       "sudo yum install git -y",
-      "sudo git clone https://github.com/harikrishnabonthu7/terraform_packer.git",
+      "sudo git clone https://github.com/harikrishnabonthu7/terraformsingleinstance.git",
       "sudo rm -rf /usr/share/nginx/html/index.html",
       "sudo cp webhooktesting/index.html /usr/share/nginx/html/index.html",
       "sudo cp webhooktesting/style.css /usr/share/nginx/html/style.css",
